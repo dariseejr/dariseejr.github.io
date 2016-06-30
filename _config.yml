@@ -4,13 +4,13 @@ name: Darisee's INLS 161 Project
 description: Final Project
 
 # url is currently only used only for the RSS feed in feed.xml
-url: https://dariseejr.github.io/jekyll-clean
+url: https://dariseejr.github.io/
 
 # baseurl will often be '', but for a project page on gh-pages, it needs to
 # be the project name.
 # *** IMPORTANT: If your local "jekyll serve" throws errors change this to '' or
 #     run it like so: jekyll serve --baseurl=''
-baseurl: /jekyll-clean
+baseurl: ''
 
 # This can be '' to hide the Github nav button
 github: ''
