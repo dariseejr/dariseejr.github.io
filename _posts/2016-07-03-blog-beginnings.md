@@ -17,6 +17,6 @@ way, I hope for some really cool experience with this as I add more to this
 little webpage.
 
 See you on the flipside,
-<br>Darisee
+<br>*Darisee*
 
 ![Baby Thumbs Up](https://s-media-cache-ak0.pinimg.com/564x/be/58/c8/be58c8298c9ddb484057ed8a3d94c61d.jpg)
