@@ -23,7 +23,7 @@ but then we learned with a huge amount of trial-and-error. But after a lot of tr
 a few Google searches, and a sprinkle of fairy dust, my group finally created the script!
 Here's a link to the git respository where it's stored: 
 
-- https://github.com/dariseejr/task-5-database-interface
+- [https://github.com/dariseejr/task-5-database-interface](https://github.com/dariseejr/task-5-database-interface)
 
 Overall, a difficult, but awarding assignment!
 
