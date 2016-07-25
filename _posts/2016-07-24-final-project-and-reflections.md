@@ -15,7 +15,7 @@ the conflict between Taylor Swift and Kanye West, starting from his interruptive
 fiasco over Kanye's controversial song "Famous". We had a good time working on the topic, and as light-hearted as it was,
 I'm really proud of the work we have done.
 
-You can look at the presentation on my [GitHub page](https://github.com/dariseejr/task-6-be-presentable/tree/master).
+You can look at the presentation [here](https://dariseejr.github.io/task-6-be-presentable/). 
 
 Also I want to take the time to reflect a little bit on this class. First off, I want to say that this was a truely valuable class to me
 because I learned so much from it in such a short time. And the material was things I was interested in as well. I get so excited when I
